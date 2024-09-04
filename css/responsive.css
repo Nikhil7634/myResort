@@ -907,9 +907,7 @@
         font-size: 26px;
         line-height: 32px;
     }
-	.main_slider_area .book_table_area {
-        top: 90%;
-    }
+ 
 }
 @media(max-width: 500px){
     .clients_slider .item .media .media-left {
