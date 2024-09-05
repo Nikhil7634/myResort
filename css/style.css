@@ -7302,4 +7302,8 @@ i:before {
     transform: skewX(-0.1953125deg) skewY(-0.1953125deg);
   }
 }
- 
+
+.explor_item{
+  border-radius: 500px 500px 0 0;
+  overflow: hidden;
+}
