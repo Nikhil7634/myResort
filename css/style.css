@@ -132,7 +132,7 @@ i:before {
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
   text-transform: uppercase;
-  color: #d6a063;
+  color: #5174af;
   letter-spacing: 0.96px;
   position: relative;
   padding-bottom: 15px;
@@ -166,7 +166,7 @@ i:before {
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
   text-transform: uppercase;
-  color: #d6a063;
+  color: #5174af;
   letter-spacing: 0.96px;
   position: relative;
 }
@@ -260,7 +260,7 @@ i:before {
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
   text-transform: uppercase;
-  color: #d6a063;
+  color: #5174af;
   letter-spacing: 0.96px;
   position: relative;
   padding-bottom: 10px;
@@ -289,7 +289,7 @@ i:before {
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
   text-transform: uppercase;
-  color: #d6a063;
+  color: #5174af;
   letter-spacing: 0.96px;
   position: relative;
   padding-bottom: 10px;
@@ -325,7 +325,7 @@ i:before {
 }
 
 .center_w_title h2 span {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .center_w_title p {
@@ -344,7 +344,7 @@ i:before {
 }
 
 .main_big_title h2 {
-  color: #d6a063;
+  color: #5174af;
   font-family: "Montserrat", sans-serif;
   font-size: 32px;
   font-weight: bold;
@@ -406,7 +406,7 @@ i:before {
 }
 
 .resort_title h2 span {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .resort_title h5 {
@@ -447,7 +447,7 @@ i:before {
 }
 
 .main_header_area.white_menu .header_top .header_top_inner .pull-left a:hover {
-  color: #d6a063;
+  color: #5174af;
   opacity: 1;
 }
 
@@ -469,7 +469,7 @@ i:before {
   .header_social
   li:hover
   a {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .main_header_area.white_menu .header_menu {
@@ -497,7 +497,7 @@ i:before {
   .nav.navbar-nav
   > li.active
   > a {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .main_header_area.white_menu
@@ -507,7 +507,7 @@ i:before {
   .book_btn
   .book_now_btn {
   color: #fff;
-}
+ }
 
 .main_header_area.white_menu .header_menu.affix {
   -webkit-box-shadow: 0px -2px 24px 1px rgba(0, 0, 0, 0.06);
@@ -643,7 +643,7 @@ i:before {
 
 .header_menu .navbar.navbar-default .nav.navbar-nav li:hover a,
 .header_menu .navbar.navbar-default .nav.navbar-nav li.active a {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .header_menu .navbar.navbar-default .nav.navbar-nav li.submenu {
@@ -751,7 +751,7 @@ i:before {
   .dropdown-menu
   li:hover
   a {
-  background: #d6a063;
+  background: #5174af;
   color: #fff;
 }
 
@@ -810,7 +810,7 @@ i:before {
     li:hover
     a {
     color: #fff;
-    background: #d6a063;
+    background: #5174af;
   }
 }
 
@@ -861,11 +861,11 @@ i:before {
   .nav.navbar-nav.navbar-right
   .book_btn
   .book_now_btn {
-  background: #d6a063;
-  color: #000;
+  background: #5174af;
+  color: white;
   line-height: 34px;
   display: inline-block;
-  padding: 0px 25px;
+  padding: 5px 25px !important;
   font-size: 14px;
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
@@ -875,7 +875,7 @@ i:before {
   -webkit-transition-duration: 0.5s;
   -o-transition-duration: 0.5s;
   transition-duration: 0.5s;
-  border: 2px solid #d6a063;
+  border: 2px solid #5174af;
   margin-top: 21px;
 }
 
@@ -884,7 +884,7 @@ i:before {
   .nav.navbar-nav.navbar-right
   .book_btn
   .book_now_btn:hover {
-  color: #d6a063;
+  color: #5174af;
   background: transparent;
 }
 
@@ -924,7 +924,7 @@ i:before {
 
 .header_menu.affix .navbar.navbar-default .nav.navbar-nav > li:hover > a,
 .header_menu.affix .navbar.navbar-default .nav.navbar-nav > li.active > a {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .header_menu.affix
@@ -1068,7 +1068,7 @@ i:before {
 
 .middle_menu_area .navbar.navbar-default .nav.navbar-nav li:hover a,
 .middle_menu_area .navbar.navbar-default .nav.navbar-nav li.active a {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .middle_menu_area .navbar.navbar-default .nav.navbar-nav li.submenu {
@@ -1158,7 +1158,7 @@ i:before {
   ul
   li:hover
   a {
-  background: #d6a063;
+  background: #5174af;
   color: #fff;
 }
 
@@ -1217,7 +1217,7 @@ i:before {
     li:hover
     a {
     color: #fff;
-    background: #d6a063;
+    background: #5174af;
   }
 }
 
@@ -1261,7 +1261,7 @@ i:before {
 
 .middle_menu_area.affix .navbar.navbar-default .nav.navbar-nav > li:hover > a,
 .middle_menu_area.affix .navbar.navbar-default .nav.navbar-nav > li.active > a {
-  color: #d6a063;
+  color: #5174af;
 }
 
 /* End Header Area css
@@ -1271,11 +1271,11 @@ i:before {
 /* Main Button css
 ============================================================================================ */
 .book_now_btn {
-  background: #d6a063;
+  background: #5174af;
   color: #fff;
   line-height: 36px;
   display: inline-block;
-  padding: 0px 25px;
+  padding: 5px 25px;
   font-size: 14px;
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
@@ -1287,13 +1287,13 @@ i:before {
   transition-duration: 0.5s;
   text-transform: uppercase;
   text-align: center;
-  border: 2px solid #d6a063;
+  border: 2px solid #5174af;
 }
 
 .book_now_btn:hover {
-  color: #d6a063;
+  color: #5174af;
   background: transparent;
-  border-color: #d6a063;
+  border-color: #5174af;
 }
 
 .book_now_btn_black {
@@ -1342,8 +1342,8 @@ i:before {
 
 .slider_btn:hover {
   color: #fff;
-  border-color: #d6a063;
-  background: #d6a063;
+  border-color: #5174af;
+  background: #5174af;
 }
 
 .about_btn_b {
@@ -1367,8 +1367,8 @@ i:before {
 
 .about_btn_b:hover {
   color: #fff;
-  border-color: #d6a063;
-  background: #d6a063;
+  border-color: #5174af;
+  background: #5174af;
 }
 
 .about_btn_wh {
@@ -1396,7 +1396,7 @@ i:before {
 }
 
 .submit_btn {
-  background: #d6a063 !important;
+  background: #5174af !important;
   color: #fff;
   border-radius: 0px;
   border: none;
@@ -1419,13 +1419,13 @@ i:before {
   -webkit-box-shadow: none !important;
   box-shadow: none !important;
   display: inline-block;
-  border: 2px solid #d6a063;
+  border: 2px solid #5174af;
 }
 
 .submit_btn:hover,
 .submit_btn:focus {
-  color: #d6a063;
-  border-color: #d6a063;
+  color: #5174af;
+  border-color: #5174af;
   background: transparent !important;
 }
 
@@ -1607,7 +1607,7 @@ i:before {
 
 .book_room_box {
   max-width: 370px;
-  background: #d6a063;
+  background: #5174af;
   padding: 45px 35px 55px 35px;
   float: right;
   overflow: hidden;
@@ -1745,9 +1745,20 @@ i:before {
 
 .main_s_banner {
   min-height: 100vh;
-  background: url(../img/home-slider/slider-2.jpg) no-repeat scroll center
+  background: url("../resortimages/hero.jpg") no-repeat scroll center
     center;
   background-size: cover;
+  position: relative;
+}
+.main_s_banner::before{
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  background: rgba(0, 0, 0, 0.475);
+
 }
 
 /* End Book Room Area css
@@ -1888,6 +1899,7 @@ i:before {
   text-align: center;
   line-height: 42px;
   padding: 0px 0px;
+  color: white !important;
 }
 
 /* End Book Table Area css
@@ -1921,7 +1933,7 @@ i:before {
   content: "";
   height: 192px;
   width: 3px;
-  background: #d6a063;
+  background: #5174af;
   position: absolute;
   right: -82px;
   top: 115px;
@@ -2094,7 +2106,7 @@ i:before {
 }
 
 .right_contact_info .contact_info_list .media .media-body a:hover {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .right_contact_info .contact_info_list .media:first-child .media-left {
@@ -2127,7 +2139,7 @@ i:before {
   content: "";
   height: 192px;
   width: 3px;
-  background: #d6a063;
+  background: #5174af;
   position: absolute;
   right: -82px;
   top: 115px;
@@ -2373,7 +2385,7 @@ i:before {
 
 .modal-message .modal-dialog .modal-content .modal-header .modal-title {
   padding-top: 80px;
-  color: #d6a063;
+  color: #5174af;
   font-size: 45px;
   font-family: "Montserrat", sans-serif;
   letter-spacing: 0.8px;
@@ -2603,13 +2615,13 @@ i:before {
   width: 98px;
   border-radius: 50%;
   text-align: center;
-  border: 1px solid #d6a063;
+  border: 1px solid #5174af;
   margin: auto;
   line-height: 96px;
 }
 
 .introduction_item .intro_img i {
-  color: #d6a063;
+  color: #5174af;
   font-size: 64px;
   line-height: 98px;
 }
@@ -2632,7 +2644,7 @@ i:before {
 }
 
 .introduction_item h4:hover {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .introduction_item p {
@@ -2644,7 +2656,7 @@ i:before {
 }
 
 .introduction_item:hover {
-  border-color: #d6a063;
+  border-color: #5174af;
 }
 
 /* End Introduction Box Area css
@@ -2675,7 +2687,7 @@ i:before {
 
 .explor_room_area.explor_slider_area:before {
   content: "";
-  background: #d6a063;
+  background: #5174af;
   height: 505px;
   width: 100%;
   position: absolute;
@@ -2717,9 +2729,9 @@ i:before {
   .explor_slider
   .explor_slider
   .owl-next:hover {
-  background: #d6a063;
+  background: #5174af;
   color: #fff;
-  border-color: #d6a063;
+  border-color: #5174af;
 }
 
 .explor_room_area.explor_slider_area .explor_slider .explor_slider .owl-prev {
@@ -2786,7 +2798,7 @@ i:before {
 }
 
 .explor_item .explor_text h4:hover {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .explor_item .explor_text ul {
@@ -2833,7 +2845,7 @@ i:before {
 
 .explor_item .explor_text .explor_footer .pull-right .book_now_btn {
   padding: 0px 13px;
-  border: 2px solid #d6a063;
+  border: 2px solid #5174af;
   line-height: 34px;
 }
 
@@ -2907,7 +2919,7 @@ i:before {
 
 .fun_fact_area .fun_fact_box .media .media-left h3 {
   font-size: 55px;
-  color: #d6a063;
+  color: #5174af;
   font-weight: bold;
   font-family: "Montserrat", sans-serif;
   line-height: 50px;
@@ -2928,7 +2940,7 @@ i:before {
 }
 
 .fun_fact_area.yellow_fun_fact {
-  background: #d6a063;
+  background: #5174af;
   -webkit-box-shadow: 0px 3px 57px 0px rgba(0, 0, 0, 0.18);
   box-shadow: 0px 3px 57px 0px rgba(0, 0, 0, 0.18);
 }
@@ -2953,7 +2965,7 @@ i:before {
 }
 
 .fun_fact_area.yellow_subscrib {
-  background: #d6a063;
+  background: #5174af;
 }
 
 .fun_fact_area.yellow_subscrib .fun_subscrib_inner {
@@ -3046,7 +3058,7 @@ i:before {
 }
 
 .fun_subscrib_inner .input-group input:focus {
-  border-color: #d6a063;
+  border-color: #5174af;
 }
 
 .fun_subscrib_inner .input-group .input-group-btn .submit_btn {
@@ -3092,7 +3104,7 @@ i:before {
   -webkit-transition: all 300ms linear 0s;
   -o-transition: all 300ms linear 0s;
   transition: all 300ms linear 0s;
-  color: #d6a063;
+  color: #5174af;
 }
 
 .resot_list ul li:last-child a {
@@ -3100,7 +3112,7 @@ i:before {
 }
 
 .resot_list ul li:hover a {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .resot_list ul li:hover a i {
@@ -3130,7 +3142,7 @@ i:before {
 
 .choose_resot_slider .owl-prev:hover,
 .choose_resot_slider .owl-next:hover {
-  background: #d6a063;
+  background: #5174af;
   color: #fff;
 }
 
@@ -3205,7 +3217,7 @@ i:before {
 }
 
 .discount_inner .discount_right_content h4 span {
-  color: #d6a063;
+  color: #5174af;
 }
 
 /* End Discount Area css
@@ -3256,7 +3268,7 @@ i:before {
 .error_area .error_inner_text_area .error_inner_text h3 {
   font-size: 200px;
   font-family: "Open Sans", sans-serif;
-  color: #d6a063;
+  color: #5174af;
   font-weight: 800;
   line-height: 150px;
 }
@@ -3355,7 +3367,7 @@ i:before {
 }
 
 .aminities_list .aminities_item:nth-child(3) {
-  background: #d6a063;
+  background: #5174af;
 }
 
 .aminities_list .aminities_item:nth-child(3) h4 {
@@ -3405,7 +3417,7 @@ i:before {
 }
 
 .aminities_list .aminities_item:nth-child(6) h4 span {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .aminities_list .aminities_item:nth-child(6) p {
@@ -3508,7 +3520,7 @@ i:before {
   height: 170px;
   width: 170px;
   border-radius: 50%;
-  background: #d6a063;
+  background: #5174af;
   position: relative;
 }
 
@@ -3616,14 +3628,14 @@ i:before {
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
   letter-spacing: 0.21px;
-  color: #d6a063;
+  color: #5174af;
   text-transform: uppercase;
   text-decoration: underline;
   line-height: 47px;
 }
 
 .all_s_btn:hover {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .our_service_item {
@@ -3633,7 +3645,7 @@ i:before {
 }
 
 .our_service_item i {
-  color: #d6a063;
+  color: #5174af;
   font-size: 64px;
   line-height: 64px;
 }
@@ -3776,14 +3788,14 @@ i:before {
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
-  color: #d6a063;
+  color: #5174af;
   -webkit-transition: all 300ms linear 0s;
   -o-transition: all 300ms linear 0s;
   transition: all 300ms linear 0s;
 }
 
 .choose_resort_list ul li a:hover {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .choose_resort_list ul li a:hover i {
@@ -3863,7 +3875,7 @@ i:before {
 }
 
 .spa_item .spa_content h4:hover {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .spa_item .spa_content p {
@@ -4136,7 +4148,7 @@ i:before {
   .activities_content
   h4
   span {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .activities_area
@@ -4170,7 +4182,7 @@ i:before {
 /* Gallery Area css
 ============================================================================================ */
 .our_resort_gallery_area {
-  background: #d6a063;
+  background: #5174af;
   padding: 100px 30px 0px 30px;
   padding-bottom: 248px;
 }
@@ -4205,8 +4217,8 @@ i:before {
 
 .resort_gallery_inner .owl-prev:hover,
 .resort_gallery_inner .owl-next:hover {
-  color: #d6a063;
-  border-color: #d6a063;
+  color: #5174af;
+  border-color: #5174af;
 }
 
 .resort_gallery_inner .owl-prev {
@@ -4346,7 +4358,7 @@ i:before {
   height: 1px;
   position: absolute;
   bottom: -1px;
-  background: #d6a063;
+  background: #5174af;
   opacity: 0;
   -webkit-transition: all 300ms linear 0s;
   -o-transition: all 300ms linear 0s;
@@ -4355,7 +4367,7 @@ i:before {
 
 .grid_gallery_inner .gallery_filter li:hover a,
 .grid_gallery_inner .gallery_filter li.active a {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .grid_gallery_inner .gallery_filter li:hover a:before,
@@ -4570,7 +4582,7 @@ i:before {
 
 .clients_slider .item .media .media-body p i {
   padding-right: 20px;
-  color: #d6a063;
+  color: #5174af;
   font-size: 100px;
   font-family: "arial";
   font-style: normal;
@@ -4580,7 +4592,7 @@ i:before {
 }
 
 .clients_slider .item .media .media-body h4 {
-  color: #d6a063;
+  color: #5174af;
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
   font-size: 18px;
@@ -4719,7 +4731,7 @@ i:before {
 }
 
 .l_news_item .news_text h4:hover {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .l_news_item .news_text p {
@@ -4733,7 +4745,7 @@ i:before {
 
 .l_news_item .news_text .news_more {
   font-size: 14px;
-  color: #d6a063;
+  color: #5174af;
   text-transform: uppercase;
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
@@ -4776,7 +4788,7 @@ i:before {
   border: 1px solid #e9e9e9;
   text-align: center;
   font-size: 40px;
-  color: #d6a063;
+  color: #5174af;
   font-weight: bold;
   line-height: 30px;
   text-transform: uppercase;
@@ -4784,7 +4796,7 @@ i:before {
 }
 
 .right_event .right_event_area .media .media-left h3 span {
-  color: #d6a063;
+  color: #5174af;
   font-size: 16px;
   display: block;
   padding-top: 5px;
@@ -4809,7 +4821,7 @@ i:before {
 }
 
 .right_event .right_event_area .media .media-body h4:hover {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .right_event .right_event_area .media:nth-child(2) {
@@ -4881,7 +4893,7 @@ i:before {
 }
 
 .blog_item .blog_text h4:hover {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .blog_item .blog_text ul {
@@ -4912,11 +4924,11 @@ i:before {
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
-  color: #d6a063;
+  color: #5174af;
 }
 
 .blog_item .blog_text ul li:hover a {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .blog_item .blog_text ul li:first-child a:before {
@@ -5016,7 +5028,7 @@ i:before {
 
 .s_blog_quote p i {
   font-size: 55px;
-  color: #d6a063;
+  color: #5174af;
   position: absolute;
   left: 0px;
   top: -15px;
@@ -5026,7 +5038,7 @@ i:before {
   text-align: right;
   display: block;
   font-size: 16px;
-  color: #d6a063;
+  color: #5174af;
   font-family: "Open Sans", sans-serif;
   font-style: italic;
   letter-spacing: 0.48px;
@@ -5047,7 +5059,7 @@ i:before {
 }
 
 .s_main_text p a {
-  color: #d6a063;
+  color: #5174af;
   text-decoration: underline;
 }
 
@@ -5106,7 +5118,7 @@ i:before {
   font-size: 13px;
   font-family: "Open Sans", sans-serif;
   letter-spacing: 0.39px;
-  color: #d6a063;
+  color: #5174af;
   margin-right: 20px;
   position: relative;
 }
@@ -5237,7 +5249,7 @@ i:before {
 }
 
 .s_comment_area .s_comment_inner .contact_us_form .form-group input:focus {
-  border: 1px solid #d6a063;
+  border: 1px solid #5174af;
 }
 
 .s_comment_area .s_comment_inner .contact_us_form .form-group textarea {
@@ -5299,7 +5311,7 @@ i:before {
 }
 
 .s_comment_area .s_comment_inner .contact_us_form .form-group textarea:focus {
-  border: 1px solid #d6a063;
+  border: 1px solid #5174af;
 }
 
 .s_comment_area .s_comment_inner .contact_us_form .form-group:last-child {
@@ -5340,7 +5352,7 @@ i:before {
   color: #909090;
   padding: 0px 15px;
   font-family: "Lato", sans-serif;
-  border-right: 1px solid #d6a063;
+  border-right: 1px solid #5174af;
   letter-spacing: 0.48px;
 }
 
@@ -5376,9 +5388,9 @@ i:before {
   border-radius: 0px;
   width: 48px;
   height: 52px;
-  border-color: #d6a063;
+  border-color: #5174af;
   padding: 0px;
-  background: #d6a063;
+  background: #5174af;
   color: #fff;
 }
 
@@ -5414,7 +5426,7 @@ i:before {
 }
 
 .categories_widget ul li:hover a {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .categories_widget ul li:hover a i {
@@ -5439,7 +5451,7 @@ i:before {
 }
 
 .recent_widget .recent_inner .recent_item h4:hover {
-  color: #d6a063;
+  color: #5174af;
   text-decoration: underline;
 }
 
@@ -5483,9 +5495,9 @@ i:before {
 }
 
 .tag_widget ul li:hover a {
-  color: #d6a063;
-  border-color: #d6a063;
-  background: #d6a063;
+  color: #5174af;
+  border-color: #5174af;
+  background: #5174af;
   color: #fff;
 }
 
@@ -5555,7 +5567,7 @@ i:before {
 }
 
 .video_area .video_inner h4 {
-  color: #d6a063;
+  color: #5174af;
   text-transform: uppercase;
   font-family: "Montserrat", sans-serif;
   font-size: 32px;
@@ -5652,7 +5664,7 @@ i:before {
 
 .banner_inner_content ul li:hover a,
 .banner_inner_content ul li.active a {
-  color: #d6a063;
+  color: #5174af;
 }
 
 /* End Banner Area css
@@ -5726,7 +5738,7 @@ i:before {
 
 .event_text .media .media-left a h5 {
   font-size: 40px;
-  color: #d6a063;
+  color: #5174af;
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
   letter-spacing: 1.2px;
@@ -5735,7 +5747,7 @@ i:before {
 
 .event_text .media .media-left a h6 {
   font-size: 16px;
-  color: #d6a063;
+  color: #5174af;
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
   letter-spacing: 0.48px;
@@ -5760,7 +5772,7 @@ i:before {
 }
 
 .event_text .media .media-body h3:hover {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .event_text p {
@@ -5997,7 +6009,7 @@ i:before {
 
 .event_two_item .event_two_text .media .media-left h5 {
   font-size: 40px;
-  color: #d6a063;
+  color: #5174af;
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
   letter-spacing: 1.2px;
@@ -6006,7 +6018,7 @@ i:before {
 
 .event_two_item .event_two_text .media .media-left h6 {
   font-size: 16px;
-  color: #d6a063;
+  color: #5174af;
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
   letter-spacing: 0.48px;
@@ -6031,7 +6043,7 @@ i:before {
 }
 
 .event_two_item .event_two_text .media .media-body h4:hover {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .event_two_item .event_two_text p {
@@ -6108,7 +6120,7 @@ i:before {
 }
 
 .room_list_item .room_list_l_text h4:hover {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .room_list_item .room_list_l_text ul {
@@ -6166,7 +6178,7 @@ i:before {
 }
 
 .room_list_item .room_list_l_text ul li:hover a {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .room_list_item .room_list_l_text p {
@@ -6240,8 +6252,8 @@ i:before {
 }
 
 .room_pagination .pagination li:hover a {
-  border-color: #d6a063;
-  color: #d6a063;
+  border-color: #5174af;
+  color: #5174af;
 }
 
 /* Event Area css
@@ -6488,7 +6500,7 @@ i:before {
 }
 
 .s_room_item .s_room_right_text ul li .bootstrap-select .dropdown-toggle span {
-  color: #d6a063;
+  color: #5174af;
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
   font-size: 15px;
@@ -6597,7 +6609,7 @@ i:before {
 
 .room_d_main_text .room_details_img .owl-prev:hover,
 .room_d_main_text .room_details_img .owl-next:hover {
-  background: #d6a063;
+  background: #5174af;
   color: #fff;
 }
 
@@ -6620,7 +6632,7 @@ i:before {
 }
 
 .room_d_main_text h4 span {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .room_d_main_text h5 {
@@ -6714,7 +6726,7 @@ i:before {
   font-size: 15px;
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
-  color: #d6a063;
+  color: #5174af;
   text-transform: uppercase;
   letter-spacing: 0.45px;
   padding-bottom: 30px;
@@ -6816,7 +6828,7 @@ i:before {
 }
 
 .room_details_comment .contact_us_form .form-group ul li a {
-  color: #d6a063;
+  color: #5174af;
 }
 
 /* End Room Details Area css
@@ -6871,7 +6883,7 @@ i:before {
 }
 
 .special_dish_item h4:hover {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .special_dish_item p {
@@ -7000,7 +7012,7 @@ i:before {
   font-size: 40px;
   font-weight: bold;
   font-family: "Montserrat", sans-serif;
-  color: #d6a063;
+  color: #5174af;
   letter-spacing: 1.2px;
   padding-top: 37px;
 }
@@ -7019,7 +7031,7 @@ i:before {
 /* Reserve Table Area css
 ============================================================================================ */
 .reserv_table_area {
-  background: #d6a063;
+  background: #5174af;
   padding: 100px 0px;
 }
 
@@ -7126,7 +7138,7 @@ i:before {
   content: "";
   width: 40px;
   height: 1px;
-  background: #d6a063;
+  background: #5174af;
   position: absolute;
   left: 0px;
   bottom: 0px;
@@ -7170,7 +7182,7 @@ i:before {
 }
 
 .about_widget .book_now_area .book_now_btn:hover {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .link_widget {
@@ -7193,7 +7205,7 @@ i:before {
 }
 
 .link_widget ul li:hover a {
-  color: #d6a063;
+  color: #5174af;
 }
 
 .instagram_widget .instagram_list {
@@ -7245,7 +7257,7 @@ i:before {
 }
 
 .footer_copyright_area .pull-right h4 a:hover {
-  color: #d6a063;
+  color: #5174af;
 }
 
 /* End Footer Area css
@@ -7306,4 +7318,15 @@ i:before {
 .explor_item{
   border-radius: 500px 500px 0 0;
   overflow: hidden;
+}
+
+ 
+.abpara{
+  width: 65%;
+}
+@media(max-width: 500px){
+  .abpara{
+    width: 90%;
+    font-size: 1.2rem;
+  }
 }
