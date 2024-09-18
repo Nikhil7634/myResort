@@ -3390,16 +3390,7 @@ i:before {
   color: #dddddd;
 }
 
-.aminities_list .aminities_item:nth-child(6) {
-  width: 40%;
-  text-align: left;
-  background: #4a4a4a;
-  padding-top: 0px;
-  padding-bottom: 0px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-}
+ 
 
 .aminities_list .aminities_item:nth-child(6) .aminities_item_inn {
   -webkit-box-flex: 1;
@@ -3410,11 +3401,7 @@ i:before {
   vertical-align: middle;
 }
 
-.aminities_list .aminities_item:nth-child(6) h4 {
-  font-size: 32px;
-  color: #fff;
-  padding-top: 0px;
-}
+ 
 
 .aminities_list .aminities_item:nth-child(6) h4 span {
   color: #5174af;
@@ -7329,4 +7316,9 @@ i:before {
     width: 90%;
     font-size: 1.2rem;
   }
+}
+
+.aminities_list{
+  width: 80%;
+  margin: auto;
 }
